@@ -148,7 +148,7 @@ export function DrawerContent(props) {
                 visible={visible4}
             >
                 <Components.CountryModal
-                    onPress={(value) => {
+                    onPress={() => {
                         setVisible4(false)
                     }}
                 >
