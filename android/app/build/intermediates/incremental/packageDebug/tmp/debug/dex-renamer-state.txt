@@ -1,0 +1,4 @@
+#Fri Sep 25 16:46:08 ICT 2020
+base.0=/Volumes/DATA/reactNative/moneyCounter/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

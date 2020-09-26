@@ -1,0 +1,113 @@
+{
+    "counter": 0,
+    "user": {
+        "ten": "DUONG VAN LANG",
+        "tuoi": "27"
+    },
+    "data": [
+        {
+            "gia": 500,
+            "sl": "0",
+            "isActive": false
+        },
+        {
+            "gia": 1000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 2000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 5000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 10000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 20000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 50000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 100000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 200000,
+            "sl": "0",
+            "isActive": true
+        },
+        {
+            "gia": 500000,
+            "sl": "0",
+            "isActive": true
+        }
+    ],
+    "vn": {
+        "menhgia": [
+            {
+                "gia": 500,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 1000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 2000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 5000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 10000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 20000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 50000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 100000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 200000,
+                "sl": "0",
+                "isActive": true
+            },
+            {
+                "gia": 500000,
+                "sl": "0",
+                "isActive": true
+            }
+        ]
+    }
+}

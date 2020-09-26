@@ -1,0 +1,4 @@
+#Sat Sep 26 07:27:00 ICT 2020
+base.0=/Volumes/DATA/reactNative/moneyCounter/android/app/build/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
